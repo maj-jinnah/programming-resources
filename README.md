@@ -18,9 +18,9 @@
 
 🚀 **Unlock premium resources to accelerate your learning. Click below to explore:**  
 
-| 📖 **Essential Books** | 🎓 **Top-Rated Courses** | 🎙 **Tech Podcasts** |
-|:---------------------:|:----------------------:|:------------------:|
-| [![📚 Free Books](https://img.shields.io/badge/-Explore_Books-0073e6?style=for-the-badge&logo=openbook&logoColor=white)](free-books.md) | [![🎓 Free Courses](https://img.shields.io/badge/-Explore_Courses-008000?style=for-the-badge&logo=edx&logoColor=white)](free-courses.md) | [![🎙 Free Podcasts](https://img.shields.io/badge/-Explore_Podcasts-FF5733?style=for-the-badge&logo=audible&logoColor=white)](free-podcasts.md) |
+| 📖 **Essential Books** | 🎓 **Top-Rated Courses** | 🎙 **Tech Podcasts** | 🌍 **Bangla Resources** |
+|:---------------------:|:----------------------:|:------------------:|:-------------------:|
+| [![📚 Free Books](https://img.shields.io/badge/-Explore_Books-0073e6?style=for-the-badge&logo=book&logoColor=white)](free-books.md) | [![🎓 Free Courses](https://img.shields.io/badge/-Explore_Courses-008000?style=for-the-badge&logo=edx&logoColor=white)](free-courses.md) | [![🎙 Free Podcasts](https://img.shields.io/badge/-Explore_Podcasts-FF5733?style=for-the-badge&logo=audible&logoColor=white)](free-podcasts.md) | [![🌍 Bangla Resources](https://img.shields.io/badge/-Bangla_Resources-DAA520?style=for-the-badge&logo=leanpub&logoColor=white)](free-bangla-resources.md) |
 
 | ⚡ **Competitive Programming** | 
 |:-----------------------------:|
