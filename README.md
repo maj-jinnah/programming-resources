@@ -22,6 +22,9 @@
 |:-----------------:|:------------------:|:--------------------:|
 | [![📚 Free Books](https://img.shields.io/badge/-Explore_Books-blue?style=for-the-badge&logo=readthedocs)](free-books.md) | [![🎓 Free Courses](https://img.shields.io/badge/-Explore_Courses-green?style=for-the-badge&logo=udemy)](free-courses.md) | [![🎙 Free Podcasts](https://img.shields.io/badge/-Explore_Podcasts-orange?style=for-the-badge&logo=spotify)](free-podcasts.md) |
 
+💡 **Check out my another repository for free competitive programming resources:**
+[![📚 Free Competitive Programming Resources](https://img.shields.io/badge/-Competitive_Programming_Resources-red?style=for-the-badge&logo=readthedocs)](https://github.com/shiningflash/Competitive-Programming-Resources)
+
 ---
 
 ## 🔥 What’s Inside?
