@@ -16,14 +16,18 @@
 
 ## 📂 Explore the Collection  
 
-💡 **Click the buttons below to dive into each section:**  
+🚀 **Unlock premium resources to accelerate your learning. Click below to explore:**  
 
-| 📖 **Free Books** | 🎓 **Free Courses** | 🎙 **Free Podcasts** |
-|:-----------------:|:------------------:|:--------------------:|
-| [![📚 Free Books](https://img.shields.io/badge/-Explore_Books-blue?style=for-the-badge&logo=readthedocs)](free-books.md) | [![🎓 Free Courses](https://img.shields.io/badge/-Explore_Courses-green?style=for-the-badge&logo=udemy)](free-courses.md) | [![🎙 Free Podcasts](https://img.shields.io/badge/-Explore_Podcasts-orange?style=for-the-badge&logo=spotify)](free-podcasts.md) |
+| 📖 **Essential Books** | 🎓 **Top-Rated Courses** | 🎙 **Tech Podcasts** |
+|:---------------------:|:----------------------:|:------------------:|
+| [![📚 Free Books](https://img.shields.io/badge/-Explore_Books-0073e6?style=for-the-badge&logo=openbook&logoColor=white)](free-books.md) | [![🎓 Free Courses](https://img.shields.io/badge/-Explore_Courses-008000?style=for-the-badge&logo=edx&logoColor=white)](free-courses.md) | [![🎙 Free Podcasts](https://img.shields.io/badge/-Explore_Podcasts-FF5733?style=for-the-badge&logo=audible&logoColor=white)](free-podcasts.md) |
 
-💡 **Check out my another repository for free competitive programming resources:**
-[![📚 Free Competitive Programming Resources](https://img.shields.io/badge/-Competitive_Programming_Resources-red?style=for-the-badge&logo=readthedocs)](https://github.com/shiningflash/Competitive-Programming-Resources)
+| ⚡ **Competitive Programming** | 
+|:-----------------------------:|
+| [![🚀 Competitive Programming Resources](https://img.shields.io/badge/-Competitive_Programming_Resources-DC143C?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/shiningflash/Competitive-Programming-Resources) |
+
+📌 **Handpicked, high-quality, and 100% free resources for developers at every level.**  
+⭐ **Bookmark this page & start learning today!**  
 
 ---
 
