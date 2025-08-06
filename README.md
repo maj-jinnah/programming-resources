@@ -1,7 +1,8 @@
-# 🚀 Ultimate Free Programming Resources  
+# Free Programming Resources  
 
-🔥 **Master programming for FREE!** This repository is a **goldmine** of **free courses, books, and podcasts** for developers.  
-📚 Whether you're a **beginner or an experienced programmer**, you'll find something valuable here!  
+**Master programming for FREE!** This repository is a **goldmine** of **free courses, books, and podcasts** for developers.  
+
+Whether you're a **beginner or an experienced programmer**, you'll find something valuable here!  
 
 ---
 
@@ -10,13 +11,13 @@
 💡 This collection is **constantly updated** with new **high-quality free resources**!  
 💡 **Want to contribute?** Feel free to **open a Pull Request** or reach out to me!  
 
-📩 **Contact:** [amirulislamalmamun@gmail.com](mailto:amirulislamalmamun@gmail.com)  
+**Contact:** [amirulislamalmamun@gmail.com](mailto:amirulislamalmamun@gmail.com)  
 
 ---
 
 ## 📂 Explore the Collection  
 
-🚀 **Unlock premium resources to accelerate your learning. Click below to explore:**  
+**Unlock premium resources to accelerate your learning. Click below to explore:**  
 
 | 📖 **Essential Books** | 🎓 **Top-Rated Courses** | 🎙 **Tech Podcasts** | 🌍 **Bangla Resources** |
 |:---------------------:|:----------------------:|:------------------:|:-------------------:|
@@ -63,7 +64,7 @@
 💡 **This repo is growing!** If you know a great **free resource**, **open a Pull Request!**  
 💡 Have a suggestion or want to collaborate? **Reach out via email!**  
 
-📩 **Contact:** [amirulislamalmamun@gmail.com](mailto:amirulislamalmamun@gmail.com)  
+**Contact:** [amirulislamalmamun@gmail.com](mailto:amirulislamalmamun@gmail.com)  
 
 📌 **Star this repo** if you found it helpful! ⭐  
 💬 **Share it with your friends** & help more developers grow! 🚀  
@@ -71,6 +72,6 @@
 ---
 
 ### 📌 *"The best way to learn is to start today!"*  
-⏳ What are you waiting for? **Start exploring now!** ⬇  
+What are you waiting for? **Start exploring now!** ⬇  
 
 [![Explore Now](https://img.shields.io/badge/-Explore_Now-ff9800?style=for-the-badge&logo=github)](free-courses.md)  
